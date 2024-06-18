@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shivang-2004/Leetcode/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/Shivang-2004/Leetcode/tree/master/0412-fizz-buzz) |
 | [1078-remove-outermost-parentheses](https://github.com/Shivang-2004/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 # Linked List
 |  |
@@ -56,6 +57,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shivang-2004/Leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Shivang-2004/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Shivang-2004/Leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Shivang-2004/Leetcode/tree/master/1013-fibonacci-number) |
 # Hash Table
@@ -111,3 +113,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Shivang-2004/Leetcode/tree/master/1013-fibonacci-number) |
+# Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Shivang-2004/Leetcode/tree/master/0412-fizz-buzz) |

@@ -10,6 +10,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Shivang-2004/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Shivang-2004/Leetcode/tree/master/0485-max-consecutive-ones) |
 # Two Pointers
 |  |
 | ------- |

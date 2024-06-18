@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivang-2004/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Shivang-2004/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shivang-2004/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shivang-2004/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Shivang-2004/Leetcode/tree/master/0792-binary-search) |
@@ -27,6 +28,7 @@
 | [0125-valid-palindrome](https://github.com/Shivang-2004/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shivang-2004/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Shivang-2004/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Shivang-2004/Leetcode/tree/master/0283-move-zeroes) |
 # Divide and Conquer
 |  |
 | ------- |

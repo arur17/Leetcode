@@ -21,6 +21,7 @@
 | [0485-max-consecutive-ones](https://github.com/Shivang-2004/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shivang-2004/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Shivang-2004/Leetcode/tree/master/0792-binary-search) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shivang-2004/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Two Pointers
 |  |
 | ------- |

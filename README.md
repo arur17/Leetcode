@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shivang-2004/Leetcode/tree/master/0125-valid-palindrome) |
+| [1078-remove-outermost-parentheses](https://github.com/Shivang-2004/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 # Linked List
 |  |
 | ------- |
@@ -59,3 +60,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
+# Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Shivang-2004/Leetcode/tree/master/1078-remove-outermost-parentheses) |

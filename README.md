@@ -22,3 +22,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shivang-2004/Leetcode/tree/master/0125-valid-palindrome) |
+# Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Shivang-2004/Leetcode/tree/master/0328-odd-even-linked-list) |

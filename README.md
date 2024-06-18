@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shivang-2004/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Shivang-2004/Leetcode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 # Two Pointers
 |  |
@@ -57,6 +58,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 # Sorting
 |  |

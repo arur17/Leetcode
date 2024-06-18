@@ -56,6 +56,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shivang-2004/Leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/Shivang-2004/Leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Shivang-2004/Leetcode/tree/master/1013-fibonacci-number) |
 # Hash Table
 |  |

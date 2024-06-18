@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/Shivang-2004/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivang-2004/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Shivang-2004/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivang-2004/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shivang-2004/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -27,6 +28,7 @@
 | [0075-sort-colors](https://github.com/Shivang-2004/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shivang-2004/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shivang-2004/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Shivang-2004/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shivang-2004/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shivang-2004/Leetcode/tree/master/0283-move-zeroes) |
 # Divide and Conquer
@@ -63,6 +65,7 @@
 | [0009-palindrome-number](https://github.com/Shivang-2004/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Shivang-2004/Leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Shivang-2004/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Shivang-2004/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shivang-2004/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Shivang-2004/Leetcode/tree/master/0326-power-of-three) |

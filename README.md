@@ -61,6 +61,7 @@
 | [0029-divide-two-integers](https://github.com/Shivang-2004/Leetcode/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/Shivang-2004/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Shivang-2004/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Shivang-2004/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Shivang-2004/Leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Shivang-2004/Leetcode/tree/master/1013-fibonacci-number) |
@@ -79,6 +80,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Shivang-2004/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Shivang-2004/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Shivang-2004/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Shivang-2004/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Shivang-2004/Leetcode/tree/master/1013-fibonacci-number) |
 # Binary Search
 |  |

@@ -17,6 +17,7 @@
 # Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Shivang-2004/Leetcode/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/Shivang-2004/Leetcode/tree/master/0191-number-of-1-bits) |
 # String
 |  |
@@ -26,3 +27,7 @@
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Shivang-2004/Leetcode/tree/master/0328-odd-even-linked-list) |
+# Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Shivang-2004/Leetcode/tree/master/0029-divide-two-integers) |

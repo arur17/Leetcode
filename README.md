@@ -47,6 +47,7 @@
 | [0191-number-of-1-bits](https://github.com/Shivang-2004/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Shivang-2004/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
+| [1054-complement-of-base-10-integer](https://github.com/Shivang-2004/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 # String
 |  |
 | ------- |

@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shivang-2004/Leetcode/tree/master/0027-remove-element) |
+| [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 # Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shivang-2004/Leetcode/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/Shivang-2004/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 # String
 |  |
 | ------- |
@@ -37,13 +39,23 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shivang-2004/Leetcode/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 # Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shivang-2004/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 # Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Shivang-2004/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Shivang-2004/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Shivang-2004/Leetcode/tree/master/0206-reverse-linked-list) |
+# Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
+# Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |

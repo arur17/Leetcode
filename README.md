@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/Shivang-2004/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Shivang-2004/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Shivang-2004/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Shivang-2004/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Shivang-2004/Leetcode/tree/master/0075-sort-colors) |
@@ -103,6 +104,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Shivang-2004/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Shivang-2004/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shivang-2004/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |

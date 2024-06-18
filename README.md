@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/Shivang-2004/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Shivang-2004/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 # Two Pointers
 |  |
@@ -19,6 +20,7 @@
 # Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Shivang-2004/Leetcode/tree/master/0191-number-of-1-bits) |
 # Bit Manipulation
 |  |
@@ -51,6 +53,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shivang-2004/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Shivang-2004/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 # Recursion
 |  |
@@ -66,6 +69,7 @@
 # Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 # Stack
 |  |
@@ -79,3 +83,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shivang-2004/Leetcode/tree/master/0073-set-matrix-zeroes) |
+# Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |

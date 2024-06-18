@@ -4,11 +4,13 @@
 # Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shivang-2004/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Shivang-2004/Leetcode/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 # Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shivang-2004/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Shivang-2004/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Shivang-2004/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shivang-2004/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -64,3 +66,7 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Shivang-2004/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+# Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Shivang-2004/Leetcode/tree/master/0011-container-with-most-water) |

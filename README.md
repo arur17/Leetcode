@@ -25,6 +25,7 @@
 | [0075-sort-colors](https://github.com/Shivang-2004/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shivang-2004/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shivang-2004/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Shivang-2004/Leetcode/tree/master/0202-happy-number) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shivang-2004/Leetcode/tree/master/0029-divide-two-integers) |
+| [0202-happy-number](https://github.com/Shivang-2004/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Shivang-2004/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Shivang-2004/Leetcode/tree/master/0507-perfect-number) |
@@ -68,6 +70,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Shivang-2004/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Shivang-2004/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Shivang-2004/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 # Recursion
 |  |

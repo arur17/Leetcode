@@ -67,6 +67,7 @@
 | [0412-fizz-buzz](https://github.com/Shivang-2004/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Shivang-2004/Leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Shivang-2004/Leetcode/tree/master/1013-fibonacci-number) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shivang-2004/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 # Hash Table
 |  |
 | ------- |

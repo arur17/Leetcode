@@ -53,6 +53,7 @@
 | [0191-number-of-1-bits](https://github.com/Shivang-2004/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Shivang-2004/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Shivang-2004/Leetcode/tree/master/0338-counting-bits) |
 | [1054-complement-of-base-10-integer](https://github.com/Shivang-2004/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Shivang-2004/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 # String
@@ -144,6 +145,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivang-2004/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivang-2004/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Shivang-2004/Leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/Shivang-2004/Leetcode/tree/master/1013-fibonacci-number) |
 # Memoization
 |  |

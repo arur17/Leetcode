@@ -1,7 +1,7 @@
+/*
 int singleNumber(int* nums, int numsSize) {
     int* hashMap = (int*)malloc(numsSize * sizeof(int) * 2); // Allocate memory for the hash map
     int hashMapSize = 0;
-
     for (int i = 0; i < numsSize; i++) {
         int found = 0;
         for (int j = 0; j < hashMapSize; j += 2) {
@@ -17,7 +17,6 @@ int singleNumber(int* nums, int numsSize) {
             hashMapSize += 2;
         }
     }
-
     for (int i = 0; i < hashMapSize; i += 2) {
         if (hashMap[i + 1] == 1) {
             int singleNum = hashMap[i];
@@ -29,3 +28,12 @@ int singleNumber(int* nums, int numsSize) {
     free(hashMap);
     return -1; // Error case
 }
+*/
+int singleNumber(int* nums, int numsSize){
+    int answer = 0;
+    for(int i = 0; i< numsSize; i++){
+        answer = answer^nums[i];
+    }
+    return answer;
+}
+

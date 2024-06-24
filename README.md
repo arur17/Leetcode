@@ -22,6 +22,7 @@
 | [0137-single-number-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shivang-2004/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Shivang-2004/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivang-2004/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shivang-2004/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -111,6 +112,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivang-2004/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shivang-2004/Leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Shivang-2004/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 # Recursion
 |  |
@@ -137,6 +139,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Shivang-2004/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shivang-2004/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 # Stack
 |  |

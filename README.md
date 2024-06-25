@@ -25,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/Shivang-2004/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivang-2004/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Shivang-2004/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Shivang-2004/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shivang-2004/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Shivang-2004/Leetcode/tree/master/0792-binary-search) |
@@ -45,6 +46,7 @@
 | [0202-happy-number](https://github.com/Shivang-2004/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Shivang-2004/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shivang-2004/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Shivang-2004/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Shivang-2004/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 # Divide and Conquer
 |  |
@@ -116,6 +118,7 @@
 | [0202-happy-number](https://github.com/Shivang-2004/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shivang-2004/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shivang-2004/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 # Recursion
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 | [0035-search-insert-position](https://github.com/Shivang-2004/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Shivang-2004/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shivang-2004/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shivang-2004/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Shivang-2004/Leetcode/tree/master/0792-binary-search) |
 # Sorting
@@ -144,6 +148,7 @@
 | [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivang-2004/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shivang-2004/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 # Stack
 |  |
 | ------- |

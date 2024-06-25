@@ -71,6 +71,7 @@
 # String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shivang-2004/Leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Shivang-2004/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivang-2004/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Shivang-2004/Leetcode/tree/master/0412-fizz-buzz) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Shivang-2004/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shivang-2004/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Shivang-2004/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Shivang-2004/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Shivang-2004/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Shivang-2004/Leetcode/tree/master/0069-sqrtx) |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivang-2004/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Shivang-2004/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Shivang-2004/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Shivang-2004/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivang-2004/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |

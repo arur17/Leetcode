@@ -22,6 +22,7 @@
 | [0137-single-number-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shivang-2004/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Shivang-2004/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Shivang-2004/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivang-2004/Leetcode/tree/master/0283-move-zeroes) |
@@ -101,6 +102,7 @@
 | [0069-sqrtx](https://github.com/Shivang-2004/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shivang-2004/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shivang-2004/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Shivang-2004/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shivang-2004/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shivang-2004/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Shivang-2004/Leetcode/tree/master/0326-power-of-three) |
@@ -189,3 +191,11 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shivang-2004/Leetcode/tree/master/0078-subsets) |
+# Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shivang-2004/Leetcode/tree/master/0204-count-primes) |
+# Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shivang-2004/Leetcode/tree/master/0204-count-primes) |

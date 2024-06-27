@@ -115,6 +115,7 @@
 | [1013-fibonacci-number](https://github.com/Shivang-2004/Leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shivang-2004/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/Shivang-2004/Leetcode/tree/master/1448-maximum-69-number) |
+| [3371-harshad-number](https://github.com/Shivang-2004/Leetcode/tree/master/3371-harshad-number) |
 # Hash Table
 |  |
 | ------- |

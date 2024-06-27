@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shivang-2004/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Shivang-2004/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Shivang-2004/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivang-2004/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Shivang-2004/Leetcode/tree/master/0412-fizz-buzz) |
@@ -223,3 +224,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Shivang-2004/Leetcode/tree/master/0948-sort-an-array) |
+# Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shivang-2004/Leetcode/tree/master/0014-longest-common-prefix) |

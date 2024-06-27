@@ -32,6 +32,7 @@
 | [0792-binary-search](https://github.com/Shivang-2004/Leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Shivang-2004/Leetcode/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shivang-2004/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3429-special-array-i](https://github.com/Shivang-2004/Leetcode/tree/master/3429-special-array-i) |
 # Two Pointers
 |  |
 | ------- |

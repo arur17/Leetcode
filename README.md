@@ -269,4 +269,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0728-self-dividing-numbers](https://github.com/Shivang-2004/Leetcode/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->

@@ -272,5 +272,10 @@
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Shivang-2004/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0728-self-dividing-numbers](https://github.com/Shivang-2004/Leetcode/tree/master/0728-self-dividing-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Shivang-2004/Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->

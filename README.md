@@ -278,4 +278,8 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Shivang-2004/Leetcode/tree/master/0367-valid-perfect-square) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/Shivang-2004/Leetcode/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->

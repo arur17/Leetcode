@@ -269,6 +269,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/Shivang-2004/Leetcode/tree/master/0682-baseball-game) |
 ## Math
 |  |
 | ------- |
@@ -281,6 +282,7 @@
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Shivang-2004/Leetcode/tree/master/0682-baseball-game) |
 | [0948-sort-an-array](https://github.com/Shivang-2004/Leetcode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Shivang-2004/Leetcode/tree/master/1293-three-consecutive-odds) |
 ## Enumeration
@@ -330,4 +332,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shivang-2004/Leetcode/tree/master/0148-sort-list) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Shivang-2004/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

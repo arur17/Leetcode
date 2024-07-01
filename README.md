@@ -282,4 +282,8 @@
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/Shivang-2004/Leetcode/tree/master/1293-three-consecutive-odds) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/Shivang-2004/Leetcode/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->

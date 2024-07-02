@@ -290,6 +290,7 @@
 | [0682-baseball-game](https://github.com/Shivang-2004/Leetcode/tree/master/0682-baseball-game) |
 | [0948-sort-an-array](https://github.com/Shivang-2004/Leetcode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Shivang-2004/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shivang-2004/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Enumeration
 |  |
 | ------- |
@@ -352,4 +353,5 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shivang-2004/Leetcode/tree/master/0048-rotate-image) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shivang-2004/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->

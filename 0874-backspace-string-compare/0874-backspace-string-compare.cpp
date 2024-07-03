@@ -14,8 +14,8 @@ public:
             }
             return result;
         };
-        string s1 = process(s);
-        string t1 = process(t);
-        return s1 == t1;
+        s = process(s);
+        t = process(t);
+        return s == t;
     }
 };

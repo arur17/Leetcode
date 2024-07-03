@@ -287,6 +287,7 @@
 | [0031-next-permutation](https://github.com/Shivang-2004/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Shivang-2004/Leetcode/tree/master/0048-rotate-image) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/Shivang-2004/Leetcode/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/Shivang-2004/Leetcode/tree/master/0682-baseball-game) |
 | [0948-sort-an-array](https://github.com/Shivang-2004/Leetcode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Shivang-2004/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -307,12 +308,14 @@
 | ------- |
 | [0148-sort-list](https://github.com/Shivang-2004/Leetcode/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/Shivang-2004/Leetcode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Shivang-2004/Leetcode/tree/master/0948-sort-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shivang-2004/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivang-2004/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0506-relative-ranks](https://github.com/Shivang-2004/Leetcode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Shivang-2004/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |

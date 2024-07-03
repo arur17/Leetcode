@@ -286,6 +286,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Shivang-2004/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Shivang-2004/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shivang-2004/Leetcode/tree/master/0054-spiral-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/Shivang-2004/Leetcode/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/Shivang-2004/Leetcode/tree/master/0682-baseball-game) |
@@ -349,6 +350,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shivang-2004/Leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Shivang-2004/Leetcode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
@@ -358,6 +360,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shivang-2004/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shivang-2004/Leetcode/tree/master/0054-spiral-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shivang-2004/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Greedy
 |  |

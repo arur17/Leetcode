@@ -276,6 +276,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Shivang-2004/Leetcode/tree/master/0048-rotate-image) |
 | [0367-valid-perfect-square](https://github.com/Shivang-2004/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Shivang-2004/Leetcode/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/Shivang-2004/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [2383-add-two-integers](https://github.com/Shivang-2004/Leetcode/tree/master/2383-add-two-integers) |
 ## Binary Search
@@ -283,6 +284,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Shivang-2004/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Shivang-2004/Leetcode/tree/master/0441-arranging-coins) |
 ## Array
 |  |
 | ------- |

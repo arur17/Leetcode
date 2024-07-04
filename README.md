@@ -343,6 +343,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivang-2004/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Shivang-2004/Leetcode/tree/master/0148-sort-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Shivang-2004/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -356,6 +357,7 @@
 | [0054-spiral-matrix](https://github.com/Shivang-2004/Leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Shivang-2004/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Shivang-2004/Leetcode/tree/master/0874-backspace-string-compare) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Shivang-2004/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Hash Table
 |  |
 | ------- |

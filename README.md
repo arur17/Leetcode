@@ -291,6 +291,7 @@
 | [0031-next-permutation](https://github.com/Shivang-2004/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Shivang-2004/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shivang-2004/Leetcode/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/Shivang-2004/Leetcode/tree/master/0118-pascals-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/Shivang-2004/Leetcode/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/Shivang-2004/Leetcode/tree/master/0682-baseball-game) |
@@ -379,4 +380,8 @@
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Shivang-2004/Leetcode/tree/master/0874-backspace-string-compare) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Shivang-2004/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->

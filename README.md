@@ -300,6 +300,7 @@
 | [1293-three-consecutive-odds](https://github.com/Shivang-2004/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shivang-2004/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shivang-2004/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2486-most-frequent-even-element](https://github.com/Shivang-2004/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Enumeration
 |  |
 | ------- |
@@ -345,6 +346,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Shivang-2004/Leetcode/tree/master/0948-sort-an-array) |
+| [2486-most-frequent-even-element](https://github.com/Shivang-2004/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Linked List
 |  |
 | ------- |
@@ -371,6 +373,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2486-most-frequent-even-element](https://github.com/Shivang-2004/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Matrix
 |  |
 | ------- |

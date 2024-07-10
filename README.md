@@ -271,6 +271,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Shivang-2004/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Shivang-2004/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1720-crawler-log-folder](https://github.com/Shivang-2004/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Math
 |  |
 | ------- |
@@ -304,6 +305,7 @@
 | [0948-sort-an-array](https://github.com/Shivang-2004/Leetcode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Shivang-2004/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shivang-2004/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/Shivang-2004/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Shivang-2004/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivang-2004/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shivang-2004/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -404,6 +406,7 @@
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Shivang-2004/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1720-crawler-log-folder](https://github.com/Shivang-2004/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Dynamic Programming
 |  |
 | ------- |

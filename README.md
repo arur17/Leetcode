@@ -288,6 +288,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivang-2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Shivang-2004/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -301,6 +302,7 @@
 | [0031-next-permutation](https://github.com/Shivang-2004/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Shivang-2004/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shivang-2004/Leetcode/tree/master/0054-spiral-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shivang-2004/Leetcode/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivang-2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |

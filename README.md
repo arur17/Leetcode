@@ -302,6 +302,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Shivang-2004/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ripplecrest/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ripplecrest/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ripplecrest/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivang-2004/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Array
@@ -329,6 +330,7 @@
 | [0792-binary-search](https://github.com/Shivang-2004/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ripplecrest/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Shivang-2004/Leetcode/tree/master/0948-sort-an-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ripplecrest/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/Shivang-2004/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ripplecrest/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shivang-2004/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |

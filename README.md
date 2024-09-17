@@ -398,6 +398,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Shivang-2004/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Shivang-2004/Leetcode/tree/master/0148-sort-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shivang-2004/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ripplecrest/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shivang-2004/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
@@ -410,6 +411,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivang-2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0874-backspace-string-compare](https://github.com/Shivang-2004/Leetcode/tree/master/0874-backspace-string-compare) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ripplecrest/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivang-2004/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |

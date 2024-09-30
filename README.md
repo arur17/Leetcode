@@ -275,6 +275,7 @@
 | [0682-baseball-game](https://github.com/Shivang-2004/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Shivang-2004/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivang-2004/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ripplecrest/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/Shivang-2004/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shivang-2004/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Math
@@ -337,6 +338,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ripplecrest/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/Shivang-2004/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ripplecrest/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ripplecrest/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shivang-2004/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Shivang-2004/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Shivang-2004/Leetcode/tree/master/1803-average-waiting-time) |
@@ -471,4 +473,8 @@
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ripplecrest/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ripplecrest/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->

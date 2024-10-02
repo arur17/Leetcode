@@ -336,6 +336,7 @@
 | [0907-koko-eating-bananas](https://github.com/ripplecrest/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Shivang-2004/Leetcode/tree/master/0948-sort-an-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ripplecrest/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1256-rank-transform-of-an-array](https://github.com/ripplecrest/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Shivang-2004/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ripplecrest/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ripplecrest/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -369,6 +370,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/Shivang-2004/Leetcode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Shivang-2004/Leetcode/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/ripplecrest/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shivang-2004/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivang-2004/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
@@ -437,6 +439,7 @@
 | [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/ripplecrest/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2486-most-frequent-even-element](https://github.com/Shivang-2004/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Matrix
 |  |

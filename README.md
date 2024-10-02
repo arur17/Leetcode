@@ -406,6 +406,7 @@
 | [0002-add-two-numbers](https://github.com/ripplecrest/Leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Shivang-2004/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ripplecrest/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/ripplecrest/Leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ripplecrest/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/Shivang-2004/Leetcode/tree/master/0148-sort-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shivang-2004/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -417,6 +418,7 @@
 | [0015-3sum](https://github.com/Shivang-2004/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shivang-2004/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Shivang-2004/Leetcode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/ripplecrest/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Shivang-2004/Leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivang-2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |

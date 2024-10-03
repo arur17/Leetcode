@@ -341,6 +341,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ripplecrest/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ripplecrest/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shivang-2004/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1694-make-sum-divisible-by-p](https://github.com/ripplecrest/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/Shivang-2004/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Shivang-2004/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivang-2004/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -444,6 +445,7 @@
 | [0229-majority-element-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/ripplecrest/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1694-make-sum-divisible-by-p](https://github.com/ripplecrest/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2486-most-frequent-even-element](https://github.com/Shivang-2004/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Matrix
 |  |
@@ -485,4 +487,8 @@
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ripplecrest/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+## Prefix Sum
+|  |
+| ------- |
+| [1694-make-sum-divisible-by-p](https://github.com/ripplecrest/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 <!---LeetCode Topics End-->

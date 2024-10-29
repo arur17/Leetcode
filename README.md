@@ -253,11 +253,13 @@
 | [0100-same-tree](https://github.com/Shivang-2004/Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0547-number-of-provinces](https://github.com/ripplecrest/Leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shivang-2004/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ripplecrest/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/ripplecrest/Leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -494,4 +496,12 @@
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/ripplecrest/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ripplecrest/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ripplecrest/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

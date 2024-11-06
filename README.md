@@ -244,6 +244,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Shivang-2004/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ripplecrest/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/ripplecrest/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -251,6 +252,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Shivang-2004/Leetcode/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/ripplecrest/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/ripplecrest/Leetcode/tree/master/0547-number-of-provinces) |
@@ -259,6 +261,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Shivang-2004/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ripplecrest/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/ripplecrest/Leetcode/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/ripplecrest/Leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
@@ -266,6 +269,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Shivang-2004/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ripplecrest/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/ripplecrest/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Stack

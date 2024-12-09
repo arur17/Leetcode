@@ -416,6 +416,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ripplecrest/Leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/ripplecrest/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Shivang-2004/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ripplecrest/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/ripplecrest/Leetcode/tree/master/0061-rotate-list) |
@@ -485,6 +486,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ripplecrest/Leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/ripplecrest/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ripplecrest/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivang-2004/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue

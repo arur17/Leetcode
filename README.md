@@ -476,6 +476,7 @@
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Shivang-2004/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivang-2004/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/ripplecrest/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/Shivang-2004/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shivang-2004/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Dynamic Programming
@@ -504,6 +505,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/ripplecrest/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/ripplecrest/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 ## Union Find
 |  |

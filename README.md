@@ -350,6 +350,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ripplecrest/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ripplecrest/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shivang-2004/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1656-count-good-triplets](https://github.com/ripplecrest/Leetcode/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/ripplecrest/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/Shivang-2004/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Shivang-2004/Leetcode/tree/master/1803-average-waiting-time) |
@@ -363,6 +364,7 @@
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/Shivang-2004/Leetcode/tree/master/1212-sequential-digits) |
+| [1656-count-good-triplets](https://github.com/ripplecrest/Leetcode/tree/master/1656-count-good-triplets) |
 ## Divide and Conquer
 |  |
 | ------- |

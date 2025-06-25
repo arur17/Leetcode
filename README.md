@@ -281,6 +281,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/ripplecrest/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/Shivang-2004/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Shivang-2004/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivang-2004/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -498,6 +499,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ripplecrest/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivang-2004/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
@@ -506,6 +508,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ripplecrest/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ripplecrest/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Prefix Sum
 |  |

@@ -486,10 +486,12 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shivang-2004/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ripplecrest/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3617-find-the-original-typed-string-i](https://github.com/ripplecrest/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/ripplecrest/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shivang-2004/Leetcode/tree/master/0118-pascals-triangle) |
+| [3618-find-the-original-typed-string-ii](https://github.com/ripplecrest/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -517,6 +519,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ripplecrest/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/ripplecrest/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ripplecrest/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3618-find-the-original-typed-string-ii](https://github.com/ripplecrest/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Union Find
 |  |
 | ------- |

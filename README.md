@@ -302,6 +302,7 @@
 | [2383-add-two-integers](https://github.com/Shivang-2004/Leetcode/tree/master/2383-add-two-integers) |
 | [2645-pass-the-pillow](https://github.com/Shivang-2004/Leetcode/tree/master/2645-pass-the-pillow) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ripplecrest/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ripplecrest/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -455,6 +456,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivang-2004/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shivang-2004/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Shivang-2004/Leetcode/tree/master/2645-pass-the-pillow) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ripplecrest/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -499,6 +501,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ripplecrest/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ripplecrest/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivang-2004/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ripplecrest/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
@@ -508,6 +511,7 @@
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ripplecrest/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ripplecrest/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
 | ------- |

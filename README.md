@@ -297,6 +297,7 @@
 | [0367-valid-perfect-square](https://github.com/Shivang-2004/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Shivang-2004/Leetcode/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/Shivang-2004/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ripplecrest/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/Shivang-2004/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivang-2004/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/Shivang-2004/Leetcode/tree/master/2383-add-two-integers) |
@@ -428,6 +429,7 @@
 | [0061-rotate-list](https://github.com/ripplecrest/Leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ripplecrest/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/Shivang-2004/Leetcode/tree/master/0148-sort-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ripplecrest/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shivang-2004/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ripplecrest/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shivang-2004/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |

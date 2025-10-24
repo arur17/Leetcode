@@ -301,6 +301,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ripplecrest/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/Shivang-2004/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivang-2004/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/arur17/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2383-add-two-integers](https://github.com/Shivang-2004/Leetcode/tree/master/2383-add-two-integers) |
 | [2645-pass-the-pillow](https://github.com/Shivang-2004/Leetcode/tree/master/2645-pass-the-pillow) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ripplecrest/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -370,6 +371,7 @@
 | ------- |
 | [1212-sequential-digits](https://github.com/Shivang-2004/Leetcode/tree/master/1212-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/ripplecrest/Leetcode/tree/master/1656-count-good-triplets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/arur17/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -419,6 +421,7 @@
 | [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/Shivang-2004/Leetcode/tree/master/0948-sort-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/arur17/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2486-most-frequent-even-element](https://github.com/Shivang-2004/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Linked List
 |  |
@@ -468,6 +471,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/ripplecrest/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/ripplecrest/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/arur17/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2486-most-frequent-even-element](https://github.com/Shivang-2004/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Matrix
 |  |
@@ -541,4 +545,5 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ripplecrest/Leetcode/tree/master/0113-path-sum-ii) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/arur17/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->

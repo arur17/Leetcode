@@ -441,6 +441,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/arur17/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Shivang-2004/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shivang-2004/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Shivang-2004/Leetcode/tree/master/0031-next-permutation) |
@@ -489,6 +490,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/arur17/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0874-backspace-string-compare](https://github.com/Shivang-2004/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivang-2004/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ripplecrest/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -500,6 +502,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/arur17/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Shivang-2004/Leetcode/tree/master/0118-pascals-triangle) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ripplecrest/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Recursion

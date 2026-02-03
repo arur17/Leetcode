@@ -372,6 +372,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/ripplecrest/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivang-2004/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/arur17/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3637-trionic-array-i](https://github.com/arur17/Leetcode/tree/master/3637-trionic-array-i) |
 ## Enumeration
 |  |
 | ------- |

@@ -302,6 +302,7 @@
 | [0367-valid-perfect-square](https://github.com/Shivang-2004/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Shivang-2004/Leetcode/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/Shivang-2004/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [1362-closest-divisors](https://github.com/arur17/Leetcode/tree/master/1362-closest-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ripplecrest/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/Shivang-2004/Leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/arur17/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |

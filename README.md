@@ -301,6 +301,7 @@
 | [0231-power-of-two](https://github.com/arur17/Leetcode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Shivang-2004/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Shivang-2004/Leetcode/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/arur17/Leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Shivang-2004/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1362-closest-divisors](https://github.com/arur17/Leetcode/tree/master/1362-closest-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ripplecrest/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |

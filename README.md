@@ -344,6 +344,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Shivang-2004/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shivang-2004/Leetcode/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/arur17/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shivang-2004/Leetcode/tree/master/0118-pascals-triangle) |
@@ -540,6 +541,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/arur17/Leetcode/tree/master/0078-subsets) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ripplecrest/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/arur17/Leetcode/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ripplecrest/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -566,6 +568,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/arur17/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/ripplecrest/Leetcode/tree/master/0113-path-sum-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/arur17/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->

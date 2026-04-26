@@ -1,17 +1,21 @@
 class Solution {
 public:
+    void rec(int index, int n , vector<int> arr, vector<int>&subset, vector<vector<int>>&ans){
+        if(index == n) {
+            ans.push_back(subset);
+            return;
+        }
+        subset.push_back(arr[index]);
+        rec(index+1, n, arr, subset, ans);
+        subset.pop_back();
+        rec(index+1, n, arr, subset, ans);
+
+    }
     vector<vector<int>> subsets(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>> final;
-        for( int i = 0; i < (1 << n)  ; i++){
-            vector<int> mid;
-            for(int j=0; j<n; j++){
-                if((i >> j) & 1){
-                    mid.push_back(nums[j]);
-                }
-            }
-            final.push_back(mid);
-        }   
-        return final;
+        vector<vector<int>> ans;
+        vector<int> subset;
+        rec(0, n, nums, subset, ans);
+        return ans;
     }
 };

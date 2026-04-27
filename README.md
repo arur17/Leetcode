@@ -510,6 +510,7 @@
 | [0657-robot-return-to-origin](https://github.com/arur17/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/arur17/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0874-backspace-string-compare](https://github.com/Shivang-2004/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1143-longest-common-subsequence](https://github.com/arur17/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivang-2004/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ripplecrest/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/Shivang-2004/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -523,6 +524,7 @@
 | [0005-longest-palindromic-substring](https://github.com/arur17/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Shivang-2004/Leetcode/tree/master/0118-pascals-triangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/arur17/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1143-longest-common-subsequence](https://github.com/arur17/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ripplecrest/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Recursion
 |  |

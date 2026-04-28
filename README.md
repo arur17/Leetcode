@@ -299,6 +299,7 @@
 | [0048-rotate-image](https://github.com/Shivang-2004/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ripplecrest/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/arur17/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/arur17/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Shivang-2004/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Shivang-2004/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/arur17/Leetcode/tree/master/0507-perfect-number) |
@@ -323,6 +324,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ripplecrest/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivang-2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/arur17/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Shivang-2004/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Shivang-2004/Leetcode/tree/master/0441-arranging-coins) |
@@ -353,6 +355,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivang-2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/arur17/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/Shivang-2004/Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -403,6 +406,7 @@
 | [0148-sort-list](https://github.com/Shivang-2004/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/arur17/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/Shivang-2004/Leetcode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Shivang-2004/Leetcode/tree/master/0948-sort-an-array) |
@@ -487,6 +491,7 @@
 | [0001-two-sum](https://github.com/arur17/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/arur17/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/ripplecrest/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/ripplecrest/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -548,6 +553,7 @@
 | [0191-number-of-1-bits](https://github.com/arur17/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ripplecrest/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/arur17/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/arur17/Leetcode/tree/master/0268-missing-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ripplecrest/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |

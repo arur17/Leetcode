@@ -592,4 +592,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/arur17/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/arur17/Leetcode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->

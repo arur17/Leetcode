@@ -383,6 +383,7 @@
 | [1803-average-waiting-time](https://github.com/Shivang-2004/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivang-2004/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shivang-2004/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arur17/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2486-most-frequent-even-element](https://github.com/Shivang-2004/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ripplecrest/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ripplecrest/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -419,6 +420,7 @@
 | [0948-sort-an-array](https://github.com/Shivang-2004/Leetcode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/ripplecrest/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shivang-2004/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arur17/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivang-2004/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/arur17/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Heap (Priority Queue)
@@ -515,6 +517,7 @@
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shivang-2004/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shivang-2004/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arur17/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ripplecrest/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## String
 |  |

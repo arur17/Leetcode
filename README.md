@@ -342,6 +342,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ripplecrest/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ripplecrest/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivang-2004/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arur17/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Array
 |  |
 | ------- |
@@ -389,6 +390,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/ripplecrest/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivang-2004/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/arur17/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arur17/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/arur17/Leetcode/tree/master/3637-trionic-array-i) |
 ## Enumeration
 |  |
@@ -423,6 +425,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arur17/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivang-2004/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/arur17/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arur17/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -481,6 +484,7 @@
 | [0874-backspace-string-compare](https://github.com/Shivang-2004/Leetcode/tree/master/0874-backspace-string-compare) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ripplecrest/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivang-2004/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arur17/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -519,6 +523,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shivang-2004/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arur17/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ripplecrest/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arur17/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## String
 |  |
 | ------- |

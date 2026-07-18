@@ -293,6 +293,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivang-2004/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ripplecrest/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/arur17/Leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Shivang-2004/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Shivang-2004/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivang-2004/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -529,6 +530,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arur17/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/arur17/Leetcode/tree/master/0058-length-of-last-word) |
+| [0394-decode-string](https://github.com/arur17/Leetcode/tree/master/0394-decode-string) |
 | [0657-robot-return-to-origin](https://github.com/arur17/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/arur17/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0874-backspace-string-compare](https://github.com/Shivang-2004/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -555,6 +557,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ripplecrest/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ripplecrest/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/arur17/Leetcode/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/arur17/Leetcode/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivang-2004/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ripplecrest/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue

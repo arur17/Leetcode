@@ -528,6 +528,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arur17/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0058-length-of-last-word](https://github.com/arur17/Leetcode/tree/master/0058-length-of-last-word) |
 | [0657-robot-return-to-origin](https://github.com/arur17/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/arur17/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0874-backspace-string-compare](https://github.com/Shivang-2004/Leetcode/tree/master/0874-backspace-string-compare) |

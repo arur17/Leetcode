@@ -356,6 +356,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Shivang-2004/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shivang-2004/Leetcode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/arur17/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/arur17/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -419,6 +420,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Shivang-2004/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shivang-2004/Leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/arur17/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Shivang-2004/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
@@ -484,6 +486,7 @@
 | [0018-4sum](https://github.com/Shivang-2004/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Shivang-2004/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/ripplecrest/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/arur17/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Shivang-2004/Leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivang-2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |

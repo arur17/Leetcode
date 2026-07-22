@@ -355,6 +355,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Shivang-2004/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/arur17/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shivang-2004/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/arur17/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/arur17/Leetcode/tree/master/0078-subsets) |
@@ -411,6 +412,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivang-2004/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/arur17/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Shivang-2004/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shivang-2004/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/arur17/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -557,6 +559,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arur17/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/arur17/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Shivang-2004/Leetcode/tree/master/0118-pascals-triangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/arur17/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/arur17/Leetcode/tree/master/1143-longest-common-subsequence) |

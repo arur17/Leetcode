@@ -5,15 +5,16 @@ public:
             return nums[0];
         }
         sort(nums.begin(), nums.end());
-        int count = 0;
-        for(int i; i < nums.size()-1; i++){
-            if (nums[i] == nums[i+1]){
-                count++;
-            }
-            if(count >= nums.size()/2){
-                return nums[i];
-            }
-        }
-        return -1;
+        return(nums[nums.size()/2]);
+        // int count = 0;
+        // for(int i = 0; i < nums.size()-1; i++){
+        //     if (nums[i] == nums[i+1]){
+        //         count++;
+        //     }
+        //     if(count >= nums.size()/2){
+        //         return nums[i];
+        //     }
+        // }
+        // return -1;
     }
 };

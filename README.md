@@ -395,6 +395,7 @@
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shivang-2004/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arur17/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2486-most-frequent-even-element](https://github.com/Shivang-2004/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [2574-left-and-right-sum-differences](https://github.com/arur17/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ripplecrest/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ripplecrest/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivang-2004/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -600,6 +601,7 @@
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ripplecrest/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/ripplecrest/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [2574-left-and-right-sum-differences](https://github.com/arur17/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ripplecrest/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ripplecrest/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Union Find

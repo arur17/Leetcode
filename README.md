@@ -322,6 +322,7 @@
 | [2383-add-two-integers](https://github.com/Shivang-2004/Leetcode/tree/master/2383-add-two-integers) |
 | [2645-pass-the-pillow](https://github.com/Shivang-2004/Leetcode/tree/master/2645-pass-the-pillow) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ripplecrest/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/arur17/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ripplecrest/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
@@ -400,6 +401,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/ripplecrest/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivang-2004/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/arur17/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/arur17/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arur17/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/arur17/Leetcode/tree/master/3637-trionic-array-i) |
 ## Enumeration
@@ -590,6 +592,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/ripplecrest/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/arur17/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/arur17/Leetcode/tree/master/0268-missing-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/arur17/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ripplecrest/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |

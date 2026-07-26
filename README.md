@@ -600,6 +600,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/ripplecrest/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/arur17/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/arur17/Leetcode/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/arur17/Leetcode/tree/master/0401-binary-watch) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arur17/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arur17/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ripplecrest/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -629,6 +630,7 @@
 | ------- |
 | [0078-subsets](https://github.com/arur17/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/ripplecrest/Leetcode/tree/master/0113-path-sum-ii) |
+| [0401-binary-watch](https://github.com/arur17/Leetcode/tree/master/0401-binary-watch) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/arur17/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Binary Search Tree
 |  |

@@ -322,6 +322,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/arur17/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2383-add-two-integers](https://github.com/Shivang-2004/Leetcode/tree/master/2383-add-two-integers) |
 | [2645-pass-the-pillow](https://github.com/Shivang-2004/Leetcode/tree/master/2645-pass-the-pillow) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arur17/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ripplecrest/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arur17/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arur17/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -553,6 +554,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shivang-2004/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arur17/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ripplecrest/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arur17/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arur17/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## String
 |  |
@@ -569,6 +571,7 @@
 | [1720-crawler-log-folder](https://github.com/Shivang-2004/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shivang-2004/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ripplecrest/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arur17/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arur17/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/ripplecrest/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ripplecrest/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |

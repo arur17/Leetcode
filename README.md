@@ -311,6 +311,7 @@
 | [0268-missing-number](https://github.com/arur17/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Shivang-2004/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Shivang-2004/Leetcode/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/arur17/Leetcode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/arur17/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arur17/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Shivang-2004/Leetcode/tree/master/0728-self-dividing-numbers) |
@@ -379,6 +380,7 @@
 | [0283-move-zeroes](https://github.com/arur17/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivang-2004/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/arur17/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/arur17/Leetcode/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/Shivang-2004/Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivang-2004/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arur17/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -581,6 +583,7 @@
 | [0005-longest-palindromic-substring](https://github.com/arur17/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/arur17/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Shivang-2004/Leetcode/tree/master/0118-pascals-triangle) |
+| [0486-predict-the-winner](https://github.com/arur17/Leetcode/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/arur17/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/arur17/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ripplecrest/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -592,6 +595,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/ripplecrest/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/arur17/Leetcode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/arur17/Leetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/arur17/Leetcode/tree/master/0486-predict-the-winner) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shivang-2004/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ripplecrest/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
@@ -649,4 +653,8 @@
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/arur17/Leetcode/tree/master/1791-find-center-of-star-graph) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/arur17/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

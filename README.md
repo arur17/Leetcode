@@ -413,6 +413,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arur17/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arur17/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/arur17/Leetcode/tree/master/3637-trionic-array-i) |
+| [3731-find-missing-elements](https://github.com/arur17/Leetcode/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -454,6 +455,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arur17/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/arur17/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/arur17/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/arur17/Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -543,6 +545,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/ripplecrest/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/arur17/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2486-most-frequent-even-element](https://github.com/Shivang-2004/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [3731-find-missing-elements](https://github.com/arur17/Leetcode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
